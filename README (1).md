@@ -19,7 +19,7 @@
 <div align="center">
 
 <!-- Waving header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:{{ACCENT_COLOR}},100:{{ACCENT_COLOR}}&height=200&section=header&text={{YOUR_NAME_URL_ENCODED}}&fontSize=42&fontColor=ffffff&animation=twinkling&desc={{YOUR_TITLE_URL_ENCODED}}&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:{{ACCENT_COLOR}},100:{{ACCENT_COLOR}}&height=200&section=header&text={{kashish gautam}}&fontSize=42&fontColor=ffffff&animation=twinkling&desc={{web developer}}&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color={{ACCENT_COLOR}}&center=true&vCenter=true&width=600&lines={{SKILL_1_URL_ENCODED}};{{SKILL_2_URL_ENCODED}};{{SKILL_3_URL_ENCODED}})](https://git.io/typing-svg)
